@@ -1,3 +1,4 @@
 ## Análise de cartões no campeonato brasileiro de futebol.
 
-![](/Cartoes.png)
+
+![](https://github.com/makausky/Portifolio/blob/main/Cartoes.png)
